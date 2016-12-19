@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897050172726",
+    "project_id": "firebase-asachool"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897050172726:android:fbbfabebfef91e46",
+        "android_client_info": {
+          "package_name": "com.pjy.kyoto.asachool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897050172726-ob2iti008bke096l55jgrf6j5srhejjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zpWWSfbdatJrr8IpW8Ax3qlCpvjHSvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
